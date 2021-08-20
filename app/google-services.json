@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "328639892522",
-    "project_id": "my-sunbae-app",
-    "storage_bucket": "my-sunbae-app.appspot.com"
+    "project_number": "1076004578314",
+    "project_id": "sun-cash-777f5",
+    "storage_bucket": "sun-cash-777f5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:328639892522:android:0acbf8bc56d819d8724753",
+        "mobilesdk_app_id": "1:1076004578314:android:8c885086193b1295ffebf3",
         "android_client_info": {
           "package_name": "com.sunbae.suncashman"
         }
       },
       "oauth_client": [
         {
-          "client_id": "328639892522-21dnoa75o0iterqk8s189bulbm91df4e.apps.googleusercontent.com",
+          "client_id": "1076004578314-saj6452848vgavbjbfci1ihom0roqpn3.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA8-kWdIUI31OK3DMW2wmT-go_1sPCjQqs"
+          "current_key": "AIzaSyCRriNZ-lSoQCUc6cKQbMVVw6mqFsCmvMw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "328639892522-21dnoa75o0iterqk8s189bulbm91df4e.apps.googleusercontent.com",
+              "client_id": "1076004578314-saj6452848vgavbjbfci1ihom0roqpn3.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
