@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.sunbae.suncashman
 
 data class CashData (
     val name : String,

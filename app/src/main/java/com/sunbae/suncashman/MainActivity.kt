@@ -1,11 +1,14 @@
-package com.example.myapplication
+package com.sunbae.suncashman
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.database.DatabaseReference
+import com.google.firebase.database.FirebaseDatabase
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
-
+    private val database: FirebaseDatabase? = null
+    private val databaseReference: DatabaseReference? = null
     lateinit var resultAdapter: ResultAdapter
     val datas = mutableListOf<CashData>()
 

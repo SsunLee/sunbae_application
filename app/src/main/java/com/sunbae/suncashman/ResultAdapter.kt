@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.sunbae.suncashman
 
 import android.content.Context
 import android.view.LayoutInflater

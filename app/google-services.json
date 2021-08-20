@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328639892522",
+    "project_id": "my-sunbae-app",
+    "storage_bucket": "my-sunbae-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328639892522:android:0acbf8bc56d819d8724753",
+        "android_client_info": {
+          "package_name": "com.sunbae.suncashman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328639892522-21dnoa75o0iterqk8s189bulbm91df4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-kWdIUI31OK3DMW2wmT-go_1sPCjQqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328639892522-21dnoa75o0iterqk8s189bulbm91df4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
